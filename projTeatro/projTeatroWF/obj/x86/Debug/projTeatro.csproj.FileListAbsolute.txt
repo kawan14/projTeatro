@@ -1,0 +1,9 @@
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\bin\Debug\projTeatroWF.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\bin\Debug\projTeatroWF.pdb
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatro.csprojAssemblyReference.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatro.Form1.resources
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatroWF.Properties.Resources.resources
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatro.csproj.GenerateResource.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatro.csproj.CoreCompileInputs.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatroWF.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatroWF.pdb

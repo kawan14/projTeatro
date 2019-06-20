@@ -1,0 +1,26 @@
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\bin\Debug\projTeatroWF.exe
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\bin\Debug\projTeatroWF.pdb
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.Form1.resources
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.Properties.Resources.resources
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.csproj.GenerateResource.Cache
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.exe
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.pdb
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.csprojResolveAssemblyReference.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\projTeatroWF\bin\Debug\projTeatroWF.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\projTeatroWF\bin\Debug\projTeatroWF.pdb
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.csprojAssemblyReference.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.Form1.resources
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.Properties.Resources.resources
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.csproj.GenerateResource.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.csproj.CoreCompileInputs.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.pdb
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\bin\Debug\projTeatroWF.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\bin\Debug\projTeatroWF.pdb
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatroWF.csprojAssemblyReference.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatroWF.Form1.resources
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatroWF.Properties.Resources.resources
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatroWF.csproj.GenerateResource.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatroWF.csproj.CoreCompileInputs.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatroWF.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projTeatro\projTeatroWF\obj\x86\Debug\projTeatroWF.pdb
